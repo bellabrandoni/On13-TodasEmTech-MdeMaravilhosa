@@ -48,6 +48,12 @@ a {
     flex-direction: column;
 }
 
+.header_maravilhosa_img {
+    width: 100%;
+    height: 220px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
 /*.header-container-img{
     width: 500px;
     height: 380px;
@@ -105,8 +111,63 @@ a {
 /* SECAO Maravilhosa */
 .maravilhosa{
     background-color: #fad8e5;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 25px;
 }
 
+.container-maravilhosa{
+    text-align: center;
+    padding: 0 5%;
+}
+
+.maravilhosa-titulo{
+    color: #ea4c89;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.maravilhosa-boxBorder{
+    border: 1px solid #674562;
+    margin: 42px;
+
+}
+
+.boxBorder-texto{
+    margin: 30px;
+    color: #462755;
+    text-align: center;
+}
+
+.container-suaHistoria{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #674582;
+   
+}
+
+.suaHistoria-imagem{
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.suaHistoria-texto{
+    width: 100%;
+}
+
+.suaHistoria-titulo{
+    color: #462755;
+    padding-bottom: 10px;
+}
+
+.suaHistoria-paragrafo{
+padding-bottom: 10px;
+
+}
 
 /* AUTORA */
 
